@@ -15,7 +15,7 @@ from sklearn.metrics import (accuracy_score, f1_score, precision_score,
                              recall_score)
 from sklearn.naive_bayes import BernoulliNB
 """
-@author: 马陈军
+@author: yaoyue123
 2019/11/13
 社会计算（跨）第一次作业demo
 """
