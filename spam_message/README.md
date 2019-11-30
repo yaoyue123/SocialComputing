@@ -7,6 +7,6 @@
 不过好是好，就是训练要求高，一个epochs用k80训练大概在10min左右。
 推荐配合谷歌的colab进行使用。
 
-> * [R模型](main.py)
+> * [LR模型](main.py)
 
 利用jieba分词，tfidf转换成词向量，LR进行训练
